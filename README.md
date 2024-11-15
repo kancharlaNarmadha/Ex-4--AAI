@@ -1,8 +1,8 @@
 
-<H3>NAME : kancharla Narmadha</H3>
+<H3>NAME : Kancharla Narmadha</H3>
 <H3>REGISTER NO : 212222110016</H3>
 <H3>EX. NO : 4</H3>
-<H3>DATE : 16-09-2024</H3>
+<H3>DATE : </H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim :
